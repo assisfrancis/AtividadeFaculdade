@@ -1,0 +1,23 @@
+* Este programa tem como finalidade resolver uma situação hipotética
+* Uma pessoa vai ao shopping acompanhado de seu filho ou filha
+* O shopping por sua vez oferece um lugar com brinquedos para que os clientes
+* que quiserem deixar seus filhos no brincando enquanto faz suas compras
+* 
+* 
+* O sistema deve fazer o cadastro do cliente e da criança 
+* O sistema deve contabilizar o tempo de estadia que a criança esteve no brinquedo
+* O sistema deve calcular o valor a ser cobrado mediante um valor estabelecido pelo shopping
+* O sistema deve atender as restrições quanto ao tempo de estadia que estabelece um desconto por um determinado tempo
+* O sistema deve imprimir em uma caixa do tipo dialog todas as informações do responsável e da criança 
+* e o valor a ser pago pelo cliente
+*
+* Configurações do sistema 
+* Na tela inicial tem uma barra de menu com alguns menus
+* No menu cadastro selecione responsável
+* Abrirá a tela de cadastro do responsável e ocultará a inicial
+* preencha as informações e click no botão indicado com seta para frente
+* Abrirá a tela de Cadastro da criança já trazendo o nome do responsável
+* preencha os dados da criança e click no botão indicado com seta pra frente
+* abrirá a tela de cadastro de estadia trazendo o nome do responsável e da criança e ocultará a tela anterior
+* Informe o tempo de estadia e click no botão calcular
+* O sistema deve apresentar um dialog com todas as informações e o valor a pagar
